@@ -1,0 +1,8 @@
+{
+  "name": "secure-agent-exec-demo",
+  "private": true,
+  "description": "Local JS isolate runner dependencies",
+  "dependencies": {
+    "isolated-vm": "^6.0.2"
+  }
+}
